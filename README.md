@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/ThwHqpz.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, we'll configure a Supreme Admin role. Log into OsTicket, and click the Admin Panel in the top right. Once inside the Admin Panel, click "Agents" tab, and then roles. Click "Add New Role" and name it "Surpeme Admin". Then, click the Permissions tab and check everything under it, and click "Add Role" once finished.
+First, we'll configure a Supreme Admin role. Log into osTicket, and click the Admin Panel in the top right. Once inside the Admin Panel, click "Agents" tab, and then roles. Click "Add New Role" and name it "Surpeme Admin". Then, click the Permissions tab and check everything under it, and click "Add Role" once finished.
 </p>
 <br />
 
@@ -94,9 +94,13 @@ Under the same "Manage" tab, go to "Help Topics" and click "Add New Help Topic".
 <br />
 
 <p>
-<img src="" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 <p>
-
+You have now finished the post-instillation configuration of osTicket.
+</p>
+<br />
+<p>
+<img src="" alt="Disk Sanitization Steps"/>
 </p>
 <br />
