@@ -54,18 +54,34 @@ Under the same "Agents" tab, click "Teams" and click "Add New Team". Name the te
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y9NWb4z.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Switch from the "Agents" tab to the "Settings" tab, and click "Users". Under the Users Settings, make sure the "Require registration and login to create tickets" box is unchecked. This will allow anyone to create tickets.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BYJq7ud.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Switch from the "Settings" tab back to the "Agents" tab, and click "Add New Agent". Name the first agent "Jane Doe" and fill out the information, with "Password1" as the password. One finished, click create and repeat the process for a second agent named "John Doe".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Ssyjpm4.png" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the top right, click "Agent Panel" and go to the "Users" tab. Click "Add User" and create two users named "Karen" and "Ken" with a simple email. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bCjUy0n.png" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the top right, click "Admin Panel" and go to the "Manage" tab. Under this tab, click "SLA" and then "Add New SLA Plan". Name the first SLA "Sev-A", and set "Grace Period" to 1, and "Schedule" to 24/7. Leave the rest as is and click "Add Plan". Name the second SLA "Sev-B", and set "Grace Period" to 4, and "Schedule" to 24/7. Leave the rest as is and click "Add Plan". Name the third SLA "Sev-C", and set "Grace Period" to 8, and "Schedule" to "Monday - Friday 8am - 5pm with U.S. Holidays". Leave the rest as is and click "Add Plan".
 </p>
 <br />
 
