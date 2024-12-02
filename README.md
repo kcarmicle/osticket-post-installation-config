@@ -86,9 +86,17 @@ In the top right, click "Admin Panel" and go to the "Manage" tab. Under this tab
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aZeJjAe.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Under the same "Manage" tab, go to "Help Topics" and click "Add New Help Topic". Name the first topic "Business Critical Outage" and set "Parent Topic" to "Report a Problem". Click "Add Topic" once done. Create a second topic and name it "Personal Computer Issues". Set "Parent Topic" to "Report a Problem" and click "Add Topic" once done. Create a third topic and name it "Equipment Request". Set "Parent Topic" to "General Inquiry" and click "Add Topic" once done. Create a fourth topic and name it "Password Reset". Set "Parent Topic" to "Report a Problem" and click "Add Topic" once done. Create one last topic and name it "Other". Set "Parent Topic" to "General Inquiry" and click "Add Topic once done".
+</p>
+<br />
+
+<p>
+<img src="" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
