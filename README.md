@@ -1,1 +1,78 @@
-# osticket-post-installation-config
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+<h1>osTicket - Post-Install Configuration</h1>
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
+<h2>Post-Install Configuration Objectives</h2>
+
+- Configure Roles, Departments, and Teams
+- Allow anyone to create tickets
+- Configure Agents and Users
+- Configure SLA
+- Configure Help Topics
+
+<h2>Configuration Steps</h2>
+
+<p>
+<img src="https://i.imgur.com/ThwHqpz.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+First, we'll configure a Supreme Admin role. Log into OsTicket, and click the Admin Panel in the top right. Once inside the Admin Panel, click "Agents" tab, and then roles. Click "Add New Role" and name it "Surpeme Admin". Then, click the Permissions tab and check everything under it, and click "Add Role" once finished.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gvf7wKa.png" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then, under the same "Agents" tab, click "Deparments" and click "Add New Department". Leave everything as is, and name the department "SysAdmins", and click "Create Dept" once finished.
+<br />
+
+<p>
+<img src="https://i.imgur.com/I0JBm0F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the same "Agents" tab, click "Teams" and click "Add New Team". Name the team "Online Banking", leaving everything else as is, and click "Create Team" once finished.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
