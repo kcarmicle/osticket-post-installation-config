@@ -100,7 +100,3 @@ Under the same "Manage" tab, go to "Help Topics" and click "Add New Help Topic".
 You have now finished the post-instillation configuration of osTicket.
 </p>
 <br />
-<p>
-<img src="" alt="Disk Sanitization Steps"/>
-</p>
-<br />
